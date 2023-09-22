@@ -1,0 +1,3 @@
+Git is used to tracking changes in the source code.
+The distributed version control tool is used for source code management.
+It allows multiple developers to work together.
